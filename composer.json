@@ -1,0 +1,14 @@
+{
+    "name": "vendoe/router",
+    "autoload": {
+        "psr-4": {
+            "Router\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ox4d"
+        }
+    ],
+    "require": {}
+}
